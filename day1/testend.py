@@ -28,7 +28,6 @@ for i in range(5):
         print(" ",end=" ")
     for j in range(0,i):
         print("*", end=" ")
-
     print("")
 print("-------------菱形----------")
 for i in range(5):
