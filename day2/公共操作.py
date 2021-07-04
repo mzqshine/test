@@ -25,7 +25,7 @@ list3 = list2 + list1
 #     print(i)
 # for i,j in enumerate(list3):
 #     print(i, j)
-# 枚举 临时变更下标
+# 枚举 临时变更下标起始
 # print(list3)
 # for i, j in enumerate(list3, start=2):
 #     print(i, j)
